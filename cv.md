@@ -21,7 +21,7 @@ I am also interested in robotics and programming.
 * JavaScript Basics
 * Git, GitHub
 
-### Code Example:
+### Code Example
 
 ```
 #include <iostream>
