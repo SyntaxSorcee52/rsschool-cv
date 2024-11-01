@@ -4,16 +4,16 @@
 
 * **Location:** Minsk, Belarus
 * **Email:** sandwichmasterGG@gmail.com
-* **GitHub:**SyntaxSorcee52(https://github.com/SyntaxSorcee52)
-* **Discord**yellow car
+* **GitHub:** [SyntaxSorcee52](https://github.com/SyntaxSorcee52 "account GitHub")
+* **Discord** rodeon2415
 
 ### About Me
 
-My name is Rodion, I am 16 years old, I am a 10th grade student at Zhdanovichskaya Secondary School. I like snowboarding, BMX freestyle,computer games.
+My name is Rodion, I am 16 y.o. , I am a 10th grade student at Zhdanovichskaya Secondary School. I like snowboarding, BMX freestyle,computer games.
 
-I am also interested in robotics and programming
+I am also interested in robotics and programming.
 
-#### My skills
+### My skills
 
 * English(A2) 
 * CSS, HTML
@@ -21,7 +21,7 @@ I am also interested in robotics and programming
 * JavaScript Basics
 * Git, GitHub
 
-##### Code Example:
+### Code Example:
 
 ```
 #include <iostream>
