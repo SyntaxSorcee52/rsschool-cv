@@ -3,8 +3,18 @@ body{
 
 
 }
-.neon{
+@font-face {
+    font-family:"Rocket Clouds DEMO Regular";
+    src:url("./Rocket_Clouds.woff") format("woff");
+    font-weight:normal;
+    font-style:normal;
+}
 
+
+.neon{
+    margin-left: 10%;
+    margin-top: 5%;
+font-family: 'Rocket Clouds DEMO Regular';
 letter-spacing: 8px;
 font-size: 4.2rem;
 color: #fff;
