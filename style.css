@@ -1,6 +1,17 @@
 body{
     background-color: #252525;
-
+    padding: 2%;
+}
+.main{
+    display: block;
+    background-color: #faf0f0;
+    width: 1200px;
+    height: 10000px;
+   
+   
+    margin-left: auto ;
+    margin-right: auto;
+    
 
 }
 @font-face {
@@ -12,8 +23,10 @@ body{
 
 
 .neon{
-    margin-left: 10%;
-    margin-top: 5%;
+    display: flex;
+
+    margin-top: -330px;
+    margin-left: 4%;
 font-family: 'Rocket Clouds DEMO Regular';
 letter-spacing: 8px;
 font-size: 4.2rem;
@@ -29,4 +42,16 @@ text-shadow:
  0 0 102px #f09,
  0 0 151px #f09;
 
+}
+.aboutme{
+    display: flex;
+    flex-direction: column;
+    font-size: 4rem;
+    font-family: Georgia;
+    margin-left: 10%;
+    width: 1000px;
+    margin-top: 200px;
+}
+.ava{
+    display: flex;
 }
