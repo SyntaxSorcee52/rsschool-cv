@@ -7,10 +7,9 @@ body{
     background-color: #faf0f0;
     width: 1200px;
     height: 10000px;
-   
-   
     margin-left: auto ;
     margin-right: auto;
+    
     
 
 }
@@ -24,8 +23,7 @@ body{
 
 .neon{
     display: flex;
-
-    margin-top: -330px;
+    margin-top: -920px;
     margin-left: 4%;
 font-family: 'Rocket Clouds DEMO Regular';
 letter-spacing: 8px;
@@ -43,15 +41,56 @@ text-shadow:
  0 0 151px #f09;
 
 }
+.right{
+    display: block;
+    width: 500px;
+    height: 1000px;
+    margin-left: 50%;
+}
+.left{
+
+    width: 500px;
+    height: 1000px;
+}
+.aboutemyself{
+    margin-top: -300px;
+    font-size: 2rem;
+}
 .aboutme{
-    display: flex;
-    flex-direction: column;
-    font-size: 4rem;
+font-family:"Sour Gummy", sans-serif ;
+    display: block;
+    color: #252525;
+    font-size: 3REM;
+}
+.par{
+    margin-top: -5px;
+    color:#252525;
+    font-size: 3rem;
     font-family: Georgia;
-    margin-left: 10%;
-    width: 1000px;
-    margin-top: 200px;
 }
 .ava{
     display: flex;
+}
+
+.skills{
+    font-family: Arial;
+    color: #252525;
+    font-size: 2rem;
+    
+ 
+}
+A {
+    color: #ffa343  ;
+   }
+   .skills {
+  font-family: "Sour Gummy", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+.blokSkills{
+font-size: 3rem;
+height: 20px;
 }
