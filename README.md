@@ -1,1 +1,1 @@
-https://SyntaxSorcee52.github.io/rsschool-cv/
+https://syntaxsorcee52.github.io/rsschool-cv/
