@@ -131,3 +131,13 @@ height: 20px;
     font-variation-settings:
       "wdth" 100;
 }
+.code{
+
+    font-size: 3rem;
+    font-family: "Sour Gummy", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+}
