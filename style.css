@@ -1,0 +1,143 @@
+body{
+    background-color: #252525;
+    padding: 2%;
+    
+}
+.main{
+    display: block;
+    background-color: #faf0f0;
+    width: 1200px;
+    height: 2000px;
+    margin-left: auto ;
+    margin-right: auto;
+    
+    
+
+}
+@font-face {
+    font-family:"Rocket Clouds DEMO Regular";
+    src:url("./Rocket_Clouds.woff") format("woff");
+    font-weight:normal;
+    font-style:normal;
+}
+
+
+.neon{
+    display: flex;
+    margin-top: -920px;
+    margin-left: 4%;
+font-family: 'Rocket Clouds DEMO Regular';
+letter-spacing: 8px;
+font-size: 4.2rem;
+color: #fff;
+
+text-shadow:
+ 0 0 7px #fff,
+ 0 0 10px #fff,
+ 0 0 21px #fff,
+ 0 0 42px #f09,
+ 0 0 82px #f09,
+ 0 0 92px #f09,
+ 0 0 102px #f09,
+ 0 0 151px #f09;
+
+}
+.right{
+    display: block;
+    width: 500px;
+    height: 1000px;
+    margin-left: 50%;
+}
+.left{
+
+    width: 500px;
+    height: 1000px;
+}
+.aboutemyself{
+    margin-top: -300px;
+    font-size: 2rem;
+}
+.aboutme{
+font-family:"Sour Gummy", sans-serif ;
+    display: block;
+    color: #252525;
+    font-size: 3REM;
+}
+.par{
+    margin-top: -5px;
+    color:#252525;
+    font-size: 3rem;
+    font-family: Georgia;
+}
+.ava{
+    display: flex;
+}
+
+.contacts{
+    
+    color: #252525;
+    font-size: 2rem;
+    
+ 
+}
+A {
+    color: #ffa343  ;
+    cursor: url('./free-icon-lightsaber-2034798.png'),pointer
+}
+   .contacts {
+  font-family: "Sour Gummy", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+.blokSkills{
+font-size: 3rem;
+height: 20px;
+}
+.blokContacts{
+    font-size: 3rem;
+    height: 20px;
+}
+.skills{
+    font-size: 2rem;
+    font-family: "Sour Gummy", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+}
+.blokSkills{
+    font-size: 3rem;
+    height: 20px;
+}
+.code{
+    margin-left: 100px;
+    font-size: 2rem;
+    background-color: #252525;
+    width: 915px;
+    height: 650px;
+    color: #39a035;
+}
+.codeExample{
+    text-align: center;
+    font-size: 3rem;
+    font-family: "Sour Gummy", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+}
+.code{
+
+    font-size: 3rem;
+    font-family: "Sour Gummy", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+}
